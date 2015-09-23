@@ -15,6 +15,6 @@ The application should:
 
 Outputs :
 The user should be able to create a query to see data exchange for a single system or all the systems or some systems. 
-When the query is run, the application should be able to generate an visual diagram simialr to the one in the attached file 'SampleforVijay-Output'
+When the query is run, the application should be able to generate an visual diagram similar to the one in the attached file 'SampleforVijay-Output'
 
 HI
